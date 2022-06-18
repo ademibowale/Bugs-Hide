@@ -100,9 +100,6 @@ const popup = document.querySelector('.display-popup')
    })
       
     }
-let a=["b",2]
-console.log(a)
-
 
 
     const popClose = document.querySelector('.popup-close-btn')
